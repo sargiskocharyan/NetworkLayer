@@ -1,3 +1,3 @@
 # NetworkLayer
-This lightweight network abstraction layer is built using Apple native APIs.
-It can be used to dramatically simplify interacting with RESTful JSON web-services.
+Lightweight network abstraction layer which is built with native APIs.
+Usage of this Network layer can drastically simplify interacting with RESTful JSON web-services.
